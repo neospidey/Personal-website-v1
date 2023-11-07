@@ -1,3 +1,3 @@
 # Personal-website-v1
 The first version of my personal website
-![Portfolio_Eila](https://github.com/neospidey/Personal-website-v1/assets/112655295/af49a812-5c28-41e0-9b91-f305e27a6f6b)
+![Portfolio_Eila](https://github.com/neospidey/Personal-website-v1/assets/112655295/bb449ecf-d31e-4832-bdb8-6a7c0e74362a)
